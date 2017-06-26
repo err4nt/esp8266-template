@@ -1,0 +1,2 @@
+export PATH=/espressif/crosstool-NG/builds/xtensa-lx106-elf/bin:$PATH
+export SDK_BASE=/build/sdk/ESP8266_NONOS_SDK
